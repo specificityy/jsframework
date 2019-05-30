@@ -1,10 +1,5 @@
 ## JS Framework and Testing Library
 
-Lines of code:
-* 1-60 Framework.
-* 64-113 for a simple testing module.
-* The rest are integration tests.
-
 ### How to run it
 
 Just double click index.html no web server needed or anything, it can run off from file://
